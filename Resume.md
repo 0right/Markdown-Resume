@@ -1,62 +1,62 @@
  <center>
-     <h1>XXX</h1>
+     <h1>彭永强</h1>
      <div>
          <span>
-             <img src="assets/phone-solid.svg" width="18px">
-             180XXXXXXXX
+             电话：15659281528
          </span>
          ·
          <span>
-             <img src="assets/envelope-solid.svg" width="18px">
-             zhengyc101@163.com
+             邮箱：pengyq143@163.com
          </span>
          ·
-         <span>
-             <img src="assets/github-brands.svg" width="18px">
-             <a href="https://github.com/CyC2018">CyC2018</a>
-         </span>
-         ·
-         <span>
-             <img src="assets/rss-solid.svg" width="18px">
-             <a href="#">My Blog</a>
-         </span>
      </div>
  </center>
 
- ## <img src="assets/info-circle-solid.svg" width="30px"> 个人信息 
+ ## 个人信息 
 
- - 男，1994 年出生
- - 求职意向：Java 研发工程师
- - 工作经验：0 年（校招可不填）
- - 期望薪资：0k（校招可不填）
+ - 男，25岁
+ - 求职意向：Unity 客户端开发
+ - 工作经验：4 年
 
-## <img src="assets/graduation-cap-solid.svg" width="30px"> 教育经历
+## 教育经历
 
-- 硕士，XXXX大学，计算机科学与技术专业，2016.9~2019.7
-- 学士，XXXX大学，软件工程专业，2012.9~2016.7
-- 绩点：***，年级前 100%
-- 通过了 CET4/6 英语等级考试
+- 本科，华侨大学，数字媒体技术专业，2017.9~2021.7
 
-## <img src="assets/briefcase-solid.svg" width="30px"> 工作经历
+## 工作经历
 
-- **XXXX 公司，XXXX 部门，XXXX 工程师，2010.1~2010.9**
+### 广州明昼科技有限公司， 客户端主程，2022.10~至今
 
-   负责 XXX
+   大型箱庭式二次元3D ARPG动作手游项目《黑色信标》，2025年4月在海内外上线。
 
-## <img src="assets/project-diagram-solid.svg" width="30px"> 项目经历
+    - 负责项目的性能优化工作：卡顿（逻辑代码、Shader预热、自动化预加载等）、发热（网络带宽、GPU带宽）、内存（Lua配置表内存、内存泄露、Shader变体、原生内存等）等方面的性能优化。
+    - 负责战斗、关卡以及相机等核心模块的开发。
+    - 负责开发相机编辑器、剧情编辑器、关卡逻辑编辑器、特效性能检测器等常用核心工具，以及其它提高团队工作流效率的工具。
+    - 负责接入登陆、推送、打点等SDK以及第三方客户端插件。
+    - 负责设计并维护Jenkins自动化构建管线，完成自动化打包、资源推送和备份、项目资源检测等自动化任务。
+    - 负责定位项目内各种疑难问题、选取技术方案、优化底层框架、组织内部技术分享、对接国内外发行商以及完成各种上线准备工作。
 
-- **XXXX 项目**
+### 巨人网络，中级Unity客户端开发，2021.11~2022.09
 
-  *使用到的技术*
+    运营多年的多人2D休闲手游项目《球球大作战》。
 
-  使用一两句话描述项目的主要功能，然后介绍自己在项目中的角色，解决了什么问题，使用什么方式解决，比别人的方法相比有什么优势（尽量用数据来说明）。
+    - 负责开发维护线上运营活动。
+    - 负责开发UI功能模块，负责3D皮肤展示模块的设计和开发。
+    - 负责维护优化Jenkins资源自动打包管线。
 
-## <img src="assets/tools-solid.svg" width="30px"> 技能清单
+### 巨人网络，初级Unity客户端开发，2021.04~2021.11
 
-- ★★★ Java
-- ★★☆ C++、Python
-- ★★★ MySQL
-- ★★★ Redis
-- ★★☆ Spring
-- ★☆☆ RabbitMQ、ZooKeeper
-- ★★☆ JavaScript
+    大型二次元3D MMORPG手游项目《龙与世界的尽头》
+
+    - 负责使用Lua开发游戏内的背包、抽卡、日常任务以及游戏公告等各种UI功能模块。
+    - 实习期参与开发剧情编辑器以及其他Unity编辑器工具。
+
+
+## 个人优势
+
+- 熟练掌握Unity内置性能分析工具以及Lua Profiler、Xcode、RenderDoc、SnapDragon Profiler、UWA Gears等常用性能分析工具，在卡顿、内存、发热等性能优化工作有丰富的实际项目经验。
+- 熟悉战斗、关卡以及相机等常用核心功能模块的框架设计和开发。
+- 熟悉Unity游戏与第三方SDK的接入工作。
+- 熟练掌握Jenkins开发自动化打包管线。
+- 熟练掌握 C#、Lua 、Python编程语言。
+- 计算机基础扎实，熟悉图形学原理。
+- 有良好的英语阅读能力（CET4/6），能够畅读英文技术文档。
