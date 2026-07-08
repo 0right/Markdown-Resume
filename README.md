@@ -1,2 +1,2 @@
 md 转 pdf：
-https://ohmycv.app/zh-cn/editor/
+https://resumd.t9t.io
